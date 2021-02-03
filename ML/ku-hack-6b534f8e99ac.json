@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ku-hack",
+  "private_key_id": "6b534f8e99ac351c9e11ec51a5442115e87c8755",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHS7UNeOakXNBX\nQG+C4ojbCY7dfCIHnRW6VA0QNNOjLcjhm3PrNgtK9nR6og3hKsBVe8MncTz3AF8S\nC3pzgIoVRWwTxapPOmTT/J/GcD0kGs90DUUpX/a+jUhI9SSzvYf6jL/hnF1Vx2qw\nbMmPXijOMazJ5XE/dyTv/p1BIaZ1M4RX3Vn14muo7GUBXGONzGQIf2Vi9XHYH8Y4\nnX2PO/4YUsE6wGD9EtqHpI7pdiPPBJALDY0J/pO+sPyAnAeD0BZ/WaGqicN+eXlS\n49Z7E3opFn4g8JHeaWWbv+pLqS7LWanyRhIAj31wXiwKZmy1jGk1SLxjAcOYzNFi\n4bPLLl77AgMBAAECggEAMFVGBYxqszXnOSHhaWazNhvtT/3I6vvHxzaXLHUDVrHF\n5CElTcf/mSCIQy2GHDOYDaNEQw6NcIHgjKnH+rcTxfDeMzVfBnPs/BRqU1/pFBaE\ndWq6eTxSxQfSng8F5alzjuoPpxGa+TCxyTO49lIpp0gY1aYVfwTQKnwfeypECmwU\ndxIOZQ8TgWF+mzQoxfYRxKxa0a9IslPd1+Cll2zbsYZfkDYVb2AIceRgEcxDd1zn\nM8z1UBIRTGJFnceTTXDek6weISN8/Ve0r8ILGSuzGie+t4PxNWF2DbOhSiZY3Nj6\nQ+thHhcialol3DpwyoT2rzbB7YJk+8b9chMxlDpuwQKBgQDnYQaGKeC2eILHEWue\nVvnxkqAie2CYksuMj7Q6+zf6q87bXmwH2rXjvMNPBZIOeEdJMnZfpHuTOR4zjlXA\nNo5m7XVmAq6mIUD6kps8DvxMKpyKk5xmN5LfxLrI6j6ryRPjR7HaXGq91XEVgXh6\nr9nA8zPmX/P0AUh/JcTzUXN7CwKBgQDcgLRFXQo8OGrn2xYKqhFtvs0iJJeManZF\npbbSiez2d8nxzWucqYoIk1SrvOhIb3Dr/i5WQj9+LdS5ziTjU8LMAW92bMhdS1z+\nETEjV4aJe4PkKnzHrBP2gPNt5BRbVb12kb+HFoeBswM/V90U1FnTUxlcFHGqH/kr\n+/dsDa+h0QKBgHZIXIxzliPSAZEAr9J3RjkfqutVxTDaQmJuCEXqrVhhQlNUtsdh\nIID2u6WHBH6PMGoT+P212VKO7YiPp/imKzAlDlIC5wOYll5CWkdepc3OLs6M3XRH\nzrbEHHSfg0BQf/E9coddnVfEaJYE5PFbOmdwLMUFonHHwib1yPRWXEG3AoGBAM9e\n8yqwn2mXHWNDtWz+GDn/0OelRik2DljdyhwivonkijUvnV7OSxRZiq2gkUteEvK+\nL1HMJ+5Ap+i+KA7qvS4iw3K6R40FzUTbYjz8mXg+gwFXu9YEzRlsmILmlwZ2kiIq\nW9dtpq6hbhJqTW7Dbl7Brf3c9DCstSdaZYxnKp+hAoGALogpziaFH+Ot7B6rbmmR\nJTbLN+tgR5/zgjfmaQSqSLwPvNWPUTA/LjOXNL91vTNeClXvryEvOTWBce4F+gXr\nvgcq67V0SD4yY2PK+WXx+HyKuolSy8Qtwym4f5WGBgkSVwFBmQKFKQr2S6YKKDrL\nynPaqD24RVzZ8eWpWXpUar4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ku-hack-vision-api@ku-hack.iam.gserviceaccount.com",
+  "client_id": "107522200113540334311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ku-hack-vision-api%40ku-hack.iam.gserviceaccount.com"
+}
